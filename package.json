@@ -1,7 +1,7 @@
 {
     "name": "gobierno-launcher",
     "preductname": "Gobierno Launcher",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Gobierno Launcher hecho por Disetoal",
     "main": "src/app.js",
     "author": "Gobierno",
