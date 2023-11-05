@@ -4,7 +4,7 @@
     "version": "1.0.1",
     "description": "Gobierno Launcher hecho por Disetoal",
     "main": "src/app.js",
-    "author": "Gobierno",
+    "author": "Disetoal",
     "url": "https://gobiernolauncher.000webhostapp.com/datos/",
     "engines": {
         "node": "^18.x.x"
